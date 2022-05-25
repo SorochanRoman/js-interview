@@ -36,3 +36,13 @@
 - [DRY](https://web-creator.ru/articles/dry)
 - [Low Coupling](https://bool.dev/blog/detail/grasp-printsipy#low)
 - [High Cohesion](https://bool.dev/blog/detail/grasp-printsipy#high)
+
+## React
+- [Virtual DOM](https://habr.com/ru/post/256965/)
+- [functional components vs class components](https://frontend-stuff.com/blog/react-components-hooks-vs-classes/)
+- [hooks](https://frontend-stuff.com/blog/react-hooks/)
+- [useCallback/useMemo - когда использовать](https://frontend-stuff.com/blog/understanding-when-use-usememo/)
+- [5 советов, которые помогут тебе лучше понять React Hooks](https://frontend-stuff.com/blog/5-tips-to-understand-react-hooks-better/)
+- [Context](https://ru.reactjs.org/docs/context.html#gatsby-focus-wrapper)
+- [Fiber](https://habr.com/ru/post/444276/)
+- [High Order Component](https://github.com/harryheman/React-Questions#34)
