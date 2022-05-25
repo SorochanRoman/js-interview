@@ -15,6 +15,18 @@
 - [New](https://learn.javascript.ru/constructor-new)
 - [Class](https://learn.javascript.ru/class)
 - [Стрелочные функции](https://learn.javascript.ru/arrow-functions)
+## TS base
+- [Type guards](https://nauchikus.gitlab.io/typescript-definitive-guide/book/contents/%D0%A2%D0%B8%D0%BF%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20-%20%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D0%B8%D0%BA%D0%B8%20%D1%82%D0%B8%D0%BF%D0%B0.html)
+- [Типизация в TypeScript](https://scriptdev.ru/ts/041/)
+- [any / unknown / never](https://dev.to/ponikar/typescript-any-unknown-never-1idc)
+- [type vs interface](https://frontend-stuff.com/blog/types-vs-interfaces/)
+- [Readonly, Partial, Required, Pick, Record](https://scriptdev.ru/ts/044/)
+- [Связанные типы (mapped types)](https://typescript-handbook.ru/docs/ts-6#%D1%81%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D1%82%D0%B8%D0%BF%D1%8B-mapped-types)
+- [Оператор keyof, Lookup Types, Mapped Types, Mapped Types - префиксы + и -](https://scriptdev.ru/ts/042/)
+- [Generics](https://canonium.com/articles/typescript-generics/)
+- [Literal type](https://typescript-handbook.ru/docs/ts-2/#%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%82%D0%B8%D0%BF%D1%8B-literal-types)
+- [Discriminated unions](https://scriptdev.ru/ts/033/)
+- [Tuples](https://typescript-handbook.ru/docs/ts-5#%D0%BA%D0%BE%D1%80%D1%82%D0%B5%D0%B6-tuple)
 ## OOП & Функциональное программирование
 - [OOП](https://javarush.ru/groups/posts/principy-oop)
 - [Функциональное программирование](https://tproger.ru/translations/functional-programming-concepts/)
