@@ -46,3 +46,8 @@
 - [Context](https://ru.reactjs.org/docs/context.html#gatsby-focus-wrapper)
 - [Fiber](https://habr.com/ru/post/444276/)
 - [High Order Component](https://github.com/harryheman/React-Questions#34)
+
+## Security
+- [xss](https://habr.com/ru/post/511318/)
+- [CORS](https://habr.com/ru/company/macloud/blog/553826/)
+- [Session vs jwt](https://www.loginradius.com/blog/engineering/guest-post/jwt-vs-sessions/)
