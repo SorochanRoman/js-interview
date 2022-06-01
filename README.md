@@ -30,6 +30,7 @@
 ## OOП & Функциональное программирование
 - [OOП](https://javarush.ru/groups/posts/principy-oop)
 - [Функциональное программирование](https://tproger.ru/translations/functional-programming-concepts/)
+- [Композиция](https://frontend-stuff.com/blog/composition/)
 
 ## Patterns
 - [SOLID](https://habr.com/ru/company/digital-ecosystems/blog/505430/)
