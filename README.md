@@ -15,6 +15,12 @@
 - [New](https://learn.javascript.ru/constructor-new)
 - [Class](https://learn.javascript.ru/class)
 - [Стрелочные функции](https://learn.javascript.ru/arrow-functions)
+- [Temporal Dead Zone](https://jsinthebits.com/what-is-the-temporal-dead-zone-e41369d4/)
+- [Proxy и Reflect](https://learn.javascript.ru/proxy)
+- [Function Expression and Function Declaration](https://learn.javascript.ru/function-expressions)
+- [Генераторы](https://learn.javascript.ru/generators)
+- [Перебираемые объекты](https://learn.javascript.ru/iterable)
+- [Promise](https://learn.javascript.ru/promise-basics)
 ## TS base
 - [Type guards](https://nauchikus.gitlab.io/typescript-definitive-guide/book/contents/%D0%A2%D0%B8%D0%BF%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20-%20%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D0%B8%D0%BA%D0%B8%20%D1%82%D0%B8%D0%BF%D0%B0.html)
 - [Типизация в TypeScript](https://scriptdev.ru/ts/041/)
