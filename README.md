@@ -10,6 +10,7 @@
 - [Bind, Call, Apply](https://medium.com/@stasonmars/%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%BE-%D0%BE-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B0%D1%85-apply-call-%D0%B8-bind-%D0%BD%D0%B5%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%B8%D0%BC%D1%8B%D1%85-%D0%BA%D0%B0%D0%B6%D0%B4%D0%BE%D0%BC%D1%83-javascript-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D1%83-ddd5f9b06290)
 - [Декораторы и переадресация вызова, call/apply](https://learn.javascript.ru/call-apply-decorators)
 - [Прототип](https://learn.javascript.ru/prototype-inheritance)
+- [this](https://github.com/azat-io/you-dont-know-js-ru/blob/master/this%20%26%20object%20prototypes/ch2.md)
 - [Контекст](https://medium.com/nuances-of-programming/%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D0%BE%D0%B5-%D1%81%D0%BB%D0%BE%D0%B2%D0%BE-this-%D0%B8-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82-%D0%B2-javascript-6ff1561f64f5) [Контектс 2](https://frontend-stuff.com/blog/execution-context-and-lexical-environment/)
 - [Лексическое окружение](https://habr.com/ru/post/474852/)
 - [New](https://learn.javascript.ru/constructor-new)
